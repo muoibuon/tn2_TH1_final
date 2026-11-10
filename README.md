@@ -1,6 +1,6 @@
 # Trần Ngô Tiến Đạt - 25112231 - Thực hành 1 - Thí nghiệm 2 
-** Minh chứng và code ở trong các folders tương ứng của mỗi bài **
-Wokwi:
+ Minh chứng và code ở trong các folders tương ứng của mỗi bài 
+> Wokwi:
 + bài 1 vd1 — https://wokwi.com/projects/479600065451741185
 + bài 1 vd2 — https://wokwi.com/projects/479599736893990913
 + bài 1 vd3 — https://wokwi.com/projects/479599641644466177
