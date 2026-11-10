@@ -8,4 +8,5 @@
 
 Lý do: nút nảy tối đa ~47 ms, hai lần nhấn nhanh nhất cách nhau ~73 ms → 50 ms lọc hết nảy mà không mất lần nhấn nào (5 ms còn lọt nảy, 500 ms mất gần nửa số lần nhấn).
 
-![So sánh 3 ngưỡng](minh_chung/debounce_so_sanh_nguong.png)
+<img width="2250" height="930" alt="image" src="https://github.com/user-attachments/assets/175cbc8a-9f06-487c-aee9-bd12aa9b4666" />
+
